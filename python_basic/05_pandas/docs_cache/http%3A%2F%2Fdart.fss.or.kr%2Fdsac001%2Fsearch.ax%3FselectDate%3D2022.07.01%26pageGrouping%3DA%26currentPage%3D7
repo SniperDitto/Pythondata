@@ -1,0 +1,642 @@
+
+
+
+
+
+
+
+
+
+
+<!--목록 -->
+<div class="tbTitle">
+ 	<h4>
+		
+			
+			
+			
+			
+	        
+	        
+			전체
+		
+		&nbsp;<span class="txtCB" id="txtCB">611</span>건
+		
+			
+				
+					
+					(2022년 07월 01일)
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		
+	</h4>
+	
+	<div class="sort" >
+		
+	    	
+			
+			
+		
+		
+			
+				<a id="time" name="sort" onclick="setOrder(this);" class="downOn" href="#none" data-order="desc" title="시간 내림차순">시간</a>
+				<a id="crp" name="sort"  onclick="setOrder(this);" class="upOff" href="#none" data-order="asc" title="회사명 올림차순">회사명</a>
+				<a id="rpt" name="sort"  onclick="setOrder(this);" class="upOff" href="#none" data-order="asc" title="보고서명 올림차순">보고서명</a>
+			
+			
+			
+			
+		
+	</div>
+</div>
+<div class="tbListInner" >
+	<table class="tbList" summary="시간,공시대상회사,보고서명,제출인,접수일자,비고 순으로 되어있습니다.">
+		<caption>유가증권시장 목록</caption>
+		<colgroup>
+			<col style="width:7%">
+			<col style="width:24%">
+			<col style="width:auto">
+			<col style="width:13%">
+			<col style="width:11%">
+			<col style="width:8%">
+		</colgroup>
+		<thead>
+			<tr>
+				<th scope="row"><label for="inpSample00">시간</label></th>
+				<th scope="row"><label for="inpSample00">공시대상회사</label></th>
+				<th scope="row"><label for="inpSample00">보고서명</label></th>
+				<th scope="row"><label for="inpSample00">제출인</label></th>
+				<th scope="row"><label for="inpSample00">접수일자</label></th>
+				<th scope="row"><label for="inpSample00">비고</label></th>
+			</tr>
+		</thead>
+		
+			
+				<tbody>
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00251428', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영자산운용 기업개황 새창" >
+										신영자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100045"  onclick="openReportViewer('20220630100045'); return false;" id="r_20220630100045"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-회사형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-회사형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00251428', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영자산운용 기업개황 새창" >
+										신영자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100044"  onclick="openReportViewer('20220630100044'); return false;" id="r_20220630100044"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00251428', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영자산운용 기업개황 새창" >
+										신영자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100043"  onclick="openReportViewer('20220630100043'); return false;" id="r_20220630100043"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00251428', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영자산운용 기업개황 새창" >
+										신영자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100042"  onclick="openReportViewer('20220630100042'); return false;" id="r_20220630100042"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00251428', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영자산운용 기업개황 새창" >
+										신영자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100041"  onclick="openReportViewer('20220630100041'); return false;" id="r_20220630100041"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00251428', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영자산운용 기업개황 새창" >
+										신영자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100040"  onclick="openReportViewer('20220630100040'); return false;" id="r_20220630100040"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00251428', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영자산운용 기업개황 새창" >
+										신영자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100039"  onclick="openReportViewer('20220630100039'); return false;" id="r_20220630100039"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-회사형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-회사형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00251428', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영자산운용 기업개황 새창" >
+										신영자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100038"  onclick="openReportViewer('20220630100038'); return false;" id="r_20220630100038"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00631475', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="하이자산운용 기업개황 새창" >
+										하이자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100037"  onclick="openReportViewer('20220630100037'); return false;" id="r_20220630100037"
+									title="효력발생안내( 2022.6.28. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.28. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00631475', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="하이자산운용 기업개황 새창" >
+										하이자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100036"  onclick="openReportViewer('20220630100036'); return false;" id="r_20220630100036"
+									title="효력발생안내( 2022.6.28. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.28. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00631475', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="하이자산운용 기업개황 새창" >
+										하이자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100035"  onclick="openReportViewer('20220630100035'); return false;" id="r_20220630100035"
+									title="효력발생안내( 2022.6.28. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.28. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+				</tbody>
+			
+			
+		
+		<input type="hidden" name="totalCnt" id="totalCnt" value="611">
+	</table>
+</div>
+
+	<div class = "psWrap">
+		<div class="pageInfo">[7/7] [총 611건]</div>
+		
+		<div class="pageSkip">
+			<ul>
+				<li><a href="javascript:search(1);">1</a></li><li><a href="javascript:search(2);">2</a></li><li><a href="javascript:search(3);">3</a></li><li><a href="javascript:search(4);">4</a></li><li><a href="javascript:search(5);">5</a></li><li><a href="javascript:search(6);">6</a></li><li class="on"><a onClick="javascript:void(0);">7</a></li>
+
+			</ul>
+		</div>
+	</div>
+

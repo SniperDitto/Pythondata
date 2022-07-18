@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block body %}
+
+<div class="container">
+    <br/><br/>
+    <h4>회원정보</h4>
+    <table class="table table-dark table-hover">
+        <thead>
+            <th scope="col">number</th>
+            <th scope="col">name</th>
+            <th scope="col">email</th>
+            <th scope="col">tel</th>
+            <th scope="col">address</th>
+            <th scope="col">gender</th>
+        </thead>
+        <tbody>
+            {% for item in data %}
+            <tr>
+              <th scope="row">{{loop.index}}</th>
+              <td>{{item[0]}}</td>
+              <td>{{item[1]}}</td>
+              <td>{{item[2]}}</td>
+              <td>{{item[3]}}</td>
+              <td>{{item[4]}}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+{% endblock %}

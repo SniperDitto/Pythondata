@@ -1,0 +1,5104 @@
+
+
+
+
+
+
+
+
+
+
+<!--목록 -->
+<div class="tbTitle">
+ 	<h4>
+		
+			
+			
+			
+			
+	        
+	        
+			전체
+		
+		&nbsp;<span class="txtCB" id="txtCB">611</span>건
+		
+			
+				
+					
+					(2022년 07월 01일)
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		
+	</h4>
+	
+	<div class="sort" >
+		
+	    	
+			
+			
+		
+		
+			
+				<a id="time" name="sort" onclick="setOrder(this);" class="downOn" href="#none" data-order="desc" title="시간 내림차순">시간</a>
+				<a id="crp" name="sort"  onclick="setOrder(this);" class="upOff" href="#none" data-order="asc" title="회사명 올림차순">회사명</a>
+				<a id="rpt" name="sort"  onclick="setOrder(this);" class="upOff" href="#none" data-order="asc" title="보고서명 올림차순">보고서명</a>
+			
+			
+			
+			
+		
+	</div>
+</div>
+<div class="tbListInner" >
+	<table class="tbList" summary="시간,공시대상회사,보고서명,제출인,접수일자,비고 순으로 되어있습니다.">
+		<caption>유가증권시장 목록</caption>
+		<colgroup>
+			<col style="width:7%">
+			<col style="width:24%">
+			<col style="width:auto">
+			<col style="width:13%">
+			<col style="width:11%">
+			<col style="width:8%">
+		</colgroup>
+		<thead>
+			<tr>
+				<th scope="row"><label for="inpSample00">시간</label></th>
+				<th scope="row"><label for="inpSample00">공시대상회사</label></th>
+				<th scope="row"><label for="inpSample00">보고서명</label></th>
+				<th scope="row"><label for="inpSample00">제출인</label></th>
+				<th scope="row"><label for="inpSample00">접수일자</label></th>
+				<th scope="row"><label for="inpSample00">비고</label></th>
+			</tr>
+		</thead>
+		
+			
+				<tbody>
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								11:12
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00296290', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="키움증권 기업개황 새창" >
+										키움증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000098"  onclick="openReportViewer('20220701000098'); return false;" id="r_20220701000098"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="키움증권">키움증권</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								11:06
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00668600', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이옥션 기업개황 새창" >
+										케이옥션
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000091"  onclick="openReportViewer('20220701000091'); return false;" id="r_20220701000091"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="손이천">손이천</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								11:05
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00369569', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="비케이홀딩스 기업개황 새창" >
+										비케이홀딩스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701900147"  onclick="openReportViewer('20220701900147'); return false;" id="r_20220701900147"
+									title="임시주주총회결과 공시뷰어 새창" >임시주주총회결과
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="비케이홀딩스">비케이홀딩스</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								11:03
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00164609', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="현대미포조선 기업개황 새창" >
+										현대미포조선
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701800138"  onclick="openReportViewer('20220701800138'); return false;" id="r_20220701800138"
+									title="단일판매ㆍ공급계약체결 공시뷰어 새창" >단일판매ㆍ공급계약체결
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="현대미포조선">현대미포조선</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								11:03
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00685078', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한보기공 기업개황 새창" >
+										한보기공
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000089"  onclick="openReportViewer('20220701000089'); return false;" id="r_20220701000089"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="청람공인회계사감사반(제88호)">청람공인회계사감사반(제88호)</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								11:02
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01247556', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="아트웍스코리아 기업개황 새창" >
+										아트웍스코리아
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000088"  onclick="openReportViewer('20220701000088'); return false;" id="r_20220701000088"
+									title="주요주주의주식보유변동 공시뷰어 새창" >주요주주의주식보유변동
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="아트웍스코리아">아트웍스코리아</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								11:02
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01247556', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="아트웍스코리아 기업개황 새창" >
+										아트웍스코리아
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000087"  onclick="openReportViewer('20220701000087'); return false;" id="r_20220701000087"
+									title="최대주주등의주식보유변동 공시뷰어 새창" >최대주주등의주식보유변동
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="아트웍스코리아">아트웍스코리아</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								11:01
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01247556', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="아트웍스코리아 기업개황 새창" >
+										아트웍스코리아
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000086"  onclick="openReportViewer('20220701000086'); return false;" id="r_20220701000086"
+									title="임원의변동 공시뷰어 새창" >임원의변동
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="아트웍스코리아">아트웍스코리아</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:59
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01326419', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="유플러스엘티이제사십일차유동화전문유한회사 기업개황 새창" >
+										유플러스엘티이제사십일차유동화전문유한회사
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000085"  onclick="openReportViewer('20220701000085'); return false;" id="r_20220701000085"
+									title="자산유동화관련중요사항발생등신고서(기타) 공시뷰어 새창" >자산유동화관련중요사항발생등신고서
+									
+		  							(기타)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="유플러스엘티이제사십일차유동화전문유한회사">유플러스엘티이제사십일차유동화전문유한회사</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:58
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000012"  onclick="openReportViewer('20220701000012'); return false;" id="r_20220701000012"
+									title="투자설명서(집합투자증권)(교보악사평생든든TDF2025증권투자신탁(혼합-재간접형)) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>투자설명서(집합투자증권)
+									
+		  							(교보악사평생든든TDF2025증권투자신탁(혼합-재간접형))
+								</a>
+							</td>
+							<td class="tL ellipsis" title="교보악사자산운용">교보악사자산운용</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:58
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000013"  onclick="openReportViewer('20220701000013'); return false;" id="r_20220701000013"
+									title="투자설명서(집합투자증권)(교보악사평생든든TDF2030증권투자신탁(혼합-재간접형)) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>투자설명서(집합투자증권)
+									
+		  							(교보악사평생든든TDF2030증권투자신탁(혼합-재간접형))
+								</a>
+							</td>
+							<td class="tL ellipsis" title="교보악사자산운용">교보악사자산운용</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:58
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000016"  onclick="openReportViewer('20220701000016'); return false;" id="r_20220701000016"
+									title="투자설명서(집합투자증권)(교보악사평생든든TDF2035증권투자신탁(혼합-재간접형)) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>투자설명서(집합투자증권)
+									
+		  							(교보악사평생든든TDF2035증권투자신탁(혼합-재간접형))
+								</a>
+							</td>
+							<td class="tL ellipsis" title="교보악사자산운용">교보악사자산운용</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:58
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000017"  onclick="openReportViewer('20220701000017'); return false;" id="r_20220701000017"
+									title="투자설명서(집합투자증권)(교보악사평생든든TDF2040증권투자신탁(혼합-재간접형)) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>투자설명서(집합투자증권)
+									
+		  							(교보악사평생든든TDF2040증권투자신탁(혼합-재간접형))
+								</a>
+							</td>
+							<td class="tL ellipsis" title="교보악사자산운용">교보악사자산운용</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:58
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000021"  onclick="openReportViewer('20220701000021'); return false;" id="r_20220701000021"
+									title="투자설명서(집합투자증권)(교보악사평생든든TDF2045증권투자신탁(혼합-재간접형)) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>투자설명서(집합투자증권)
+									
+		  							(교보악사평생든든TDF2045증권투자신탁(혼합-재간접형))
+								</a>
+							</td>
+							<td class="tL ellipsis" title="교보악사자산운용">교보악사자산운용</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:58
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000023"  onclick="openReportViewer('20220701000023'); return false;" id="r_20220701000023"
+									title="투자설명서(집합투자증권)(교보악사공모주알파30증권자투자신탁1호[채권혼합]) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>투자설명서(집합투자증권)
+									
+		  							(교보악사공모주알파30증권자투자신탁1호[채권혼합])
+								</a>
+							</td>
+							<td class="tL ellipsis" title="교보악사자산운용">교보악사자산운용</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:57
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000025"  onclick="openReportViewer('20220701000025'); return false;" id="r_20220701000025"
+									title="투자설명서(집합투자증권)(교보악사평생든든TDF2050증권투자신탁(혼합-재간접형)) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>투자설명서(집합투자증권)
+									
+		  							(교보악사평생든든TDF2050증권투자신탁(혼합-재간접형))
+								</a>
+							</td>
+							<td class="tL ellipsis" title="교보악사자산운용">교보악사자산운용</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:57
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000034"  onclick="openReportViewer('20220701000034'); return false;" id="r_20220701000034"
+									title="투자설명서(집합투자증권)(교보악사퇴직연금공모주알파30증권자투자신탁(채권혼합)) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>투자설명서(집합투자증권)
+									
+		  							(교보악사퇴직연금공모주알파30증권자투자신탁(채권혼합))
+								</a>
+							</td>
+							<td class="tL ellipsis" title="교보악사자산운용">교보악사자산운용</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:57
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000052"  onclick="openReportViewer('20220701000052'); return false;" id="r_20220701000052"
+									title="투자설명서(집합투자증권)(교보악사공모주하이일드플러스증권투자신탁[채권혼합]) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>투자설명서(집합투자증권)
+									
+		  							(교보악사공모주하이일드플러스증권투자신탁[채권혼합])
+								</a>
+							</td>
+							<td class="tL ellipsis" title="교보악사자산운용">교보악사자산운용</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:57
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00115612', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="동부건설 기업개황 새창" >
+										동부건설
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000083"  onclick="openReportViewer('20220701000083'); return false;" id="r_20220701000083"
+									title="주식등의대량보유상황보고서(일반) 공시뷰어 새창" >주식등의대량보유상황보고서(일반)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="키스톤에코프라임">키스톤에코프라임</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:57
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000061"  onclick="openReportViewer('20220701000061'); return false;" id="r_20220701000061"
+									title="투자설명서(집합투자증권)(교보악사공모주알파30증권자투자신탁2호[채권혼합]) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>투자설명서(집합투자증권)
+									
+		  							(교보악사공모주알파30증권자투자신탁2호[채권혼합])
+								</a>
+							</td>
+							<td class="tL ellipsis" title="교보악사자산운용">교보악사자산운용</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:57
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000070"  onclick="openReportViewer('20220701000070'); return false;" id="r_20220701000070"
+									title="투자설명서(집합투자증권)(교보악사위대한중소형밸류증권자투자신탁1호(주식)) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>투자설명서(집합투자증권)
+									
+		  							(교보악사위대한중소형밸류증권자투자신탁1호(주식))
+								</a>
+							</td>
+							<td class="tL ellipsis" title="교보악사자산운용">교보악사자산운용</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:55
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241379', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="로옴세미컨덕터코리아 기업개황 새창" >
+										로옴세미컨덕터코리아
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000082"  onclick="openReportViewer('20220701000082'); return false;" id="r_20220701000082"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="안진회계법인">안진회계법인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:52
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00878915', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="DGB금융지주 기업개황 새창" >
+										DGB금융지주
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701800141"  onclick="openReportViewer('20220701800141'); return false;" id="r_20220701800141"
+									title="지속가능경영보고서등관련사항(자율공시) 공시뷰어 새창" >지속가능경영보고서등관련사항(자율공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="DGB금융지주">DGB금융지주</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:50
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00531014', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="유진테크 기업개황 새창" >
+										유진테크
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701900137"  onclick="openReportViewer('20220701900137'); return false;" id="r_20220701900137"
+									title="대표이사변경 공시뷰어 새창" >대표이사변경
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="유진테크">유진테크</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:47
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00638928', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="아마다웰드테크코리아 기업개황 새창" >
+										아마다웰드테크코리아
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000080"  onclick="openReportViewer('20220701000080'); return false;" id="r_20220701000080"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="안진회계법인">안진회계법인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:43
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00132637', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="동원시스템즈 기업개황 새창" >
+										동원시스템즈
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701800136"  onclick="openReportViewer('20220701800136'); return false;" id="r_20220701800136"
+									title="신규시설투자등(자율공시) 공시뷰어 새창" >신규시설투자등(자율공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="동원시스템즈">동원시스템즈</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+								
+							
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:42
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00139889', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="SKC 기업개황 새창" >
+										SKC
+									</a>
+								</span>
+								<a href="http://www.skc.kr/" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000078"  onclick="openReportViewer('20220701000078'); return false;" id="r_20220701000078"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="나윤아">나윤아</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:41
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00132637', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="동원시스템즈 기업개황 새창" >
+										동원시스템즈
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701800127"  onclick="openReportViewer('20220701800127'); return false;" id="r_20220701800127"
+									title="임시주주총회결과 공시뷰어 새창" >임시주주총회결과
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="동원시스템즈">동원시스템즈</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:40
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00502368', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="이원통산 기업개황 새창" >
+										이원통산
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000076"  onclick="openReportViewer('20220701000076'); return false;" id="r_20220701000076"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신우회계법인">신우회계법인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:40
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00163716', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한창 기업개황 새창" >
+										한창
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000075"  onclick="openReportViewer('20220701000075'); return false;" id="r_20220701000075"
+									title="주식등의대량보유상황보고서(약식) 공시뷰어 새창" >주식등의대량보유상황보고서(약식)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="시너지아이비투자">시너지아이비투자</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+								
+							
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:39
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00139889', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="SKC 기업개황 새창" >
+										SKC
+									</a>
+								</span>
+								<a href="http://www.skc.kr/" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701800132"  onclick="openReportViewer('20220701800132'); return false;" id="r_20220701800132"
+									title="최대주주등소유주식변동신고서 공시뷰어 새창" >최대주주등소유주식변동신고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="SKC">SKC</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:38
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00111722', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="미래에셋증권 기업개황 새창" >
+										미래에셋증권
+									</a>
+								</span>
+								<a href="http://ci.securities.miraeasset.com" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000074"  onclick="openReportViewer('20220701000074'); return false;" id="r_20220701000074"
+									title="일괄신고추가서류(파생결합증권-주가연계증권) 공시뷰어 새창" >일괄신고추가서류(파생결합증권-주가연계증권)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="미래에셋증권">미래에셋증권</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:36
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00688358', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="하이즈항공 기업개황 새창" >
+										하이즈항공
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000072"  onclick="openReportViewer('20220701000072'); return false;" id="r_20220701000072"
+									title="주식등의대량보유상황보고서(일반) 공시뷰어 새창" >주식등의대량보유상황보고서(일반)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="하상헌">하상헌</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+								
+							
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:35
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00139889', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="SKC 기업개황 새창" >
+										SKC
+									</a>
+								</span>
+								<a href="http://www.skc.kr/" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000071"  onclick="openReportViewer('20220701000071'); return false;" id="r_20220701000071"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="박시원">박시원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+								
+							
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:33
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00139889', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="SKC 기업개황 새창" >
+										SKC
+									</a>
+								</span>
+								<a href="http://www.skc.kr/" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000069"  onclick="openReportViewer('20220701000069'); return false;" id="r_20220701000069"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이석준">이석준</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:32
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01326419', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="유플러스엘티이제사십일차유동화전문유한회사 기업개황 새창" >
+										유플러스엘티이제사십일차유동화전문유한회사
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000068"  onclick="openReportViewer('20220701000068'); return false;" id="r_20220701000068"
+									title="자산유동화관련중요사항발생등신고서(해산) 공시뷰어 새창" >자산유동화관련중요사항발생등신고서(해산)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="유플러스엘티이제사십일차유동화전문유한회사">유플러스엘티이제사십일차유동화전문유한회사</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+								
+							
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00139889', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="SKC 기업개황 새창" >
+										SKC
+									</a>
+								</span>
+								<a href="http://www.skc.kr/" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000067"  onclick="openReportViewer('20220701000067'); return false;" id="r_20220701000067"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="배종서">배종서</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:27
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00217789', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="제일실업 기업개황 새창" >
+										제일실업
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000066"  onclick="openReportViewer('20220701000066'); return false;" id="r_20220701000066"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신우회계법인">신우회계법인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+						
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:27
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00103644', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="비츠로테크 기업개황 새창" >
+										비츠로테크
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701900123"  onclick="openReportViewer('20220701900123'); return false;" id="r_20220701900123"
+									title="단일판매ㆍ공급계약체결 공시뷰어 새창" >단일판매ㆍ공급계약체결(자회사의 주요경영사항)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="비츠로테크">비츠로테크</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:24
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00154718', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="비츠로셀 기업개황 새창" >
+										비츠로셀
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701900122"  onclick="openReportViewer('20220701900122'); return false;" id="r_20220701900122"
+									title="단일판매ㆍ공급계약체결 공시뷰어 새창" >단일판매ㆍ공급계약체결
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="비츠로셀">비츠로셀</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:23
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01003040', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이사인 기업개황 새창" >
+										케이사인
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000058"  onclick="openReportViewer('20220701000058'); return false;" id="r_20220701000058"
+									title="주요사항보고서(유형자산양수결정) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 첨부내용이 변경되어 제출된 것임" class="txtCB">[첨부정정]</span>주요사항보고서(유형자산양수결정)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="케이사인">케이사인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+								
+							
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:21
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00139889', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="SKC 기업개황 새창" >
+										SKC
+									</a>
+								</span>
+								<a href="http://www.skc.kr/" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000065"  onclick="openReportViewer('20220701000065'); return false;" id="r_20220701000065"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="박영석">박영석</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:21
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00139010', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="아주약품 기업개황 새창" >
+										아주약품
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000064"  onclick="openReportViewer('20220701000064'); return false;" id="r_20220701000064"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신한회계법인">신한회계법인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:20
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00534279', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="운하리조트 기업개황 새창" >
+										운하리조트
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000062"  onclick="openReportViewer('20220701000062'); return false;" id="r_20220701000062"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신우회계법인">신우회계법인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:14
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00260037', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="가립회계법인 기업개황 새창" >
+										가립회계법인
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000053"  onclick="openReportViewer('20220701000053'); return false;" id="r_20220701000053"
+									title="회계법인사업보고서 공시뷰어 새창" >회계법인사업보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="가립회계법인">가립회계법인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:09
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00613318', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="와이지엔터테인먼트 기업개황 새창" >
+										와이지엔터테인먼트
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701900114"  onclick="openReportViewer('20220701900114'); return false;" id="r_20220701900114"
+									title="대표이사변경 공시뷰어 새창" >대표이사변경
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="와이지엔터테인먼트">와이지엔터테인먼트</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:09
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00450010', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="센트랄모텍 기업개황 새창" >
+										센트랄모텍
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701800112"  onclick="openReportViewer('20220701800112'); return false;" id="r_20220701800112"
+									title="타인에대한채무보증결정 공시뷰어 새창" >타인에대한채무보증결정
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="센트랄모텍">센트랄모텍</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:08
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01610956', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엘제이파트너스 기업개황 새창" >
+										엘제이파트너스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000049"  onclick="openReportViewer('20220701000049'); return false;" id="r_20220701000049"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="회계법인상지원">회계법인상지원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:08
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01307335', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="공구우먼 기업개황 새창" >
+										공구우먼
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000048"  onclick="openReportViewer('20220701000048'); return false;" id="r_20220701000048"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="티에스 2018-12 M&A 투자조합">티에스 2018-12 M&A 투자조합</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:05
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00111722', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="미래에셋증권 기업개황 새창" >
+										미래에셋증권
+									</a>
+								</span>
+								<a href="http://ci.securities.miraeasset.com" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000047"  onclick="openReportViewer('20220701000047'); return false;" id="r_20220701000047"
+									title="투자설명서(일괄신고) 공시뷰어 새창" >투자설명서(일괄신고)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="미래에셋증권">미래에셋증권</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:04
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01490422', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이엠엘코리아리미티드 기업개황 새창" >
+										에이엠엘코리아리미티드
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000045"  onclick="openReportViewer('20220701000045'); return false;" id="r_20220701000045"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="안진회계법인">안진회계법인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:04
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00531704', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="빌더스이앤씨 기업개황 새창" >
+										빌더스이앤씨
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000044"  onclick="openReportViewer('20220701000044'); return false;" id="r_20220701000044"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2021.12)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="성현회계법인">성현회계법인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:03
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00100601', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="강원에너지 기업개황 새창" >
+										강원에너지
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701900107"  onclick="openReportViewer('20220701900107'); return false;" id="r_20220701900107"
+									title="타법인주식및출자증권취득결정(자율공시) 공시뷰어 새창" >타법인주식및출자증권취득결정(자율공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="강원에너지">강원에너지</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:01
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00111722', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="미래에셋증권 기업개황 새창" >
+										미래에셋증권
+									</a>
+								</span>
+								<a href="http://ci.securities.miraeasset.com" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000043"  onclick="openReportViewer('20220701000043'); return false;" id="r_20220701000043"
+									title="투자설명서(일괄신고) 공시뷰어 새창" >투자설명서(일괄신고)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="미래에셋증권">미래에셋증권</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								10:00
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01458709', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="세림디앤씨 기업개황 새창" >
+										세림디앤씨
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000042"  onclick="openReportViewer('20220701000042'); return false;" id="r_20220701000042"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신우회계법인">신우회계법인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:59
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01570791', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="부산신항웅동개발 기업개황 새창" >
+										부산신항웅동개발
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000041"  onclick="openReportViewer('20220701000041'); return false;" id="r_20220701000041"
+									title="유상증자결정 공시뷰어 새창" >유상증자결정
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="부산신항웅동개발">부산신항웅동개발</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:58
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00164876', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이비증권 기업개황 새창" >
+										케이비증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000040"  onclick="openReportViewer('20220701000040'); return false;" id="r_20220701000040"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="케이비증권">케이비증권</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:55
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00148665', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="하이투자증권 기업개황 새창" >
+										하이투자증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000037"  onclick="openReportViewer('20220701000037'); return false;" id="r_20220701000037"
+									title="투자설명서(일괄신고) 공시뷰어 새창" >투자설명서(일괄신고)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="하이투자증권">하이투자증권</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:53
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01570791', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="부산신항웅동개발 기업개황 새창" >
+										부산신항웅동개발
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000036"  onclick="openReportViewer('20220701000036'); return false;" id="r_20220701000036"
+									title="특수관계인의유상증자참여 공시뷰어 새창" >특수관계인의유상증자참여
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="부산신항웅동개발">부산신항웅동개발</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:48
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00526854', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="가치투자자문 기업개황 새창" >
+										가치투자자문
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000033"  onclick="openReportViewer('20220701000033'); return false;" id="r_20220701000033"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="동아송강회계법인">동아송강회계법인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:47
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00104856', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="삼성증권 기업개황 새창" >
+										삼성증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000032"  onclick="openReportViewer('20220701000032'); return false;" id="r_20220701000032"
+									title="투자설명서(일괄신고) 공시뷰어 새창" >투자설명서(일괄신고)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="삼성증권">삼성증권</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:46
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00324098', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="고이테크 기업개황 새창" >
+										고이테크
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000031"  onclick="openReportViewer('20220701000031'); return false;" id="r_20220701000031"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="현대회계법인">현대회계법인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:44
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01264711', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="서한물산 기업개황 새창" >
+										서한물산
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000029"  onclick="openReportViewer('20220701000029'); return false;" id="r_20220701000029"
+									title="임원의변동 공시뷰어 새창" >임원의변동
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="서한물산">서한물산</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:44
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00148665', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="하이투자증권 기업개황 새창" >
+										하이투자증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000028"  onclick="openReportViewer('20220701000028'); return false;" id="r_20220701000028"
+									title="일괄신고추가서류(파생결합증권-주가연계증권) 공시뷰어 새창" >일괄신고추가서류(파생결합증권-주가연계증권)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="하이투자증권">하이투자증권</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:43
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00104856', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="삼성증권 기업개황 새창" >
+										삼성증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000027"  onclick="openReportViewer('20220701000027'); return false;" id="r_20220701000027"
+									title="일괄신고추가서류(파생결합사채-주가연계파생결합사채) 공시뷰어 새창" >일괄신고추가서류(파생결합사채-주가연계파생결합사채)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="삼성증권">삼성증권</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:41
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00860280', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="세광패션 기업개황 새창" >
+										세광패션
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000026"  onclick="openReportViewer('20220701000026'); return false;" id="r_20220701000026"
+									title="임원의변동 공시뷰어 새창" >임원의변동
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="세광패션">세광패션</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:39
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01042517', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="타이거자산운용투자일임 기업개황 새창" >
+										타이거자산운용투자일임
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000024"  onclick="openReportViewer('20220701000024'); return false;" id="r_20220701000024"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="동아송강회계법인">동아송강회계법인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:36
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00111722', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="미래에셋증권 기업개황 새창" >
+										미래에셋증권
+									</a>
+								</span>
+								<a href="http://ci.securities.miraeasset.com" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000020"  onclick="openReportViewer('20220701000020'); return false;" id="r_20220701000020"
+									title="일괄신고추가서류(파생결합사채-주가연계파생결합사채) 공시뷰어 새창" >일괄신고추가서류(파생결합사채-주가연계파생결합사채)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="미래에셋증권">미래에셋증권</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:35
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00111722', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="미래에셋증권 기업개황 새창" >
+										미래에셋증권
+									</a>
+								</span>
+								<a href="http://ci.securities.miraeasset.com" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000019"  onclick="openReportViewer('20220701000019'); return false;" id="r_20220701000019"
+									title="일괄신고추가서류(파생결합증권-주가연계증권) 공시뷰어 새창" >일괄신고추가서류(파생결합증권-주가연계증권)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="미래에셋증권">미래에셋증권</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:34
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01356580', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="과천상상피에프브이 기업개황 새창" >
+										과천상상피에프브이
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000018"  onclick="openReportViewer('20220701000018'); return false;" id="r_20220701000018"
+									title="임원의변동 공시뷰어 새창" >임원의변동
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="과천상상피에프브이">과천상상피에프브이</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:22
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00233264', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="미쓰비시케미칼어드밴스드머티리얼즈코리아 기업개황 새창" >
+										미쓰비시케미칼어드밴스드머티리얼즈코리아
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000015"  onclick="openReportViewer('20220701000015'); return false;" id="r_20220701000015"
+									title="감사보고서 공시뷰어 새창" >감사보고서
+									 (2022.03)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한영회계법인">한영회계법인</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:21
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00870931', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="청진이삼프로젝트 기업개황 새창" >
+										청진이삼프로젝트
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000014"  onclick="openReportViewer('20220701000014'); return false;" id="r_20220701000014"
+									title="임원의변동 공시뷰어 새창" >임원의변동
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="청진이삼프로젝트">청진이삼프로젝트</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:13
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00324548', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한국투자신탁운용 기업개황 새창" >
+										한국투자신탁운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630000333"  onclick="openReportViewer('20220630000333'); return false;" id="r_20220630000333"
+									title="투자설명서(집합투자증권)(한국투자OCIO-DO알아서수익증권자투자신탁(혼합-재간접형)) 공시뷰어 새창" >투자설명서(집합투자증권)
+									
+		  							(한국투자OCIO-DO알아서수익증권자투자신탁(혼합-재간접형))
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한국투자신탁운용">한국투자신탁운용</td>
+							<td>2022.06.30</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:12
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00895985', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="파주에너지서비스 기업개황 새창" >
+										파주에너지서비스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000011"  onclick="openReportViewer('20220701000011'); return false;" id="r_20220701000011"
+									title="동일인등출자계열회사와의상품ㆍ용역거래 공시뷰어 새창" >동일인등출자계열회사와의상품ㆍ용역거래
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="파주에너지서비스">파주에너지서비스</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:09
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00895985', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="파주에너지서비스 기업개황 새창" >
+										파주에너지서비스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000010"  onclick="openReportViewer('20220701000010'); return false;" id="r_20220701000010"
+									title="동일인등출자계열회사와의상품ㆍ용역거래 공시뷰어 새창" >동일인등출자계열회사와의상품ㆍ용역거래
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="파주에너지서비스">파주에너지서비스</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:07
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00526696', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="웨이브일렉트로 기업개황 새창" >
+										웨이브일렉트로
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000009"  onclick="openReportViewer('20220701000009'); return false;" id="r_20220701000009"
+									title="주식등의대량보유상황보고서(일반) 공시뷰어 새창" >주식등의대량보유상황보고서(일반)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="박천석">박천석</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:06
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00416414', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="넥스턴바이오 기업개황 새창" >
+										넥스턴바이오
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000008"  onclick="openReportViewer('20220701000008'); return false;" id="r_20220701000008"
+									title="합병등종료보고서(자산양수도) 공시뷰어 새창" >합병등종료보고서
+									
+		  							(자산양수도)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="넥스턴바이오">넥스턴바이오</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:02
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00161046', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한독 기업개황 새창" >
+										한독
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000007"  onclick="openReportViewer('20220701000007'); return false;" id="r_20220701000007"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="장미경">장미경</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								09:00
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00131799', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에스케이에코플랜트 기업개황 새창" >
+										에스케이에코플랜트
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000006"  onclick="openReportViewer('20220701000006'); return false;" id="r_20220701000006"
+									title="주요사항보고서(유상증자결정) 공시뷰어 새창" >주요사항보고서(유상증자결정)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="에스케이에코플랜트">에스케이에코플랜트</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:58
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('01205851', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="현대일렉트릭 기업개황 새창" >
+										현대일렉트릭
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000005"  onclick="openReportViewer('20220701000005'); return false;" id="r_20220701000005"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이찬주">이찬주</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:50
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00453929', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="메디포스트 기업개황 새창" >
+										메디포스트
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000004"  onclick="openReportViewer('20220701000004'); return false;" id="r_20220701000004"
+									title="주식등의대량보유상황보고서(일반) 공시뷰어 새창" >주식등의대량보유상황보고서(일반)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="양윤선">양윤선</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:45
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00862905', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="이지스자산운용 기업개황 새창" >
+										이지스자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000003"  onclick="openReportViewer('20220701000003'); return false;" id="r_20220701000003"
+									title="투자설명서 공시뷰어 새창" >투자설명서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이지스자산운용">이지스자산운용</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:27
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00120182', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="NH투자증권 기업개황 새창" >
+										NH투자증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000002"  onclick="openReportViewer('20220701000002'); return false;" id="r_20220701000002"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="NH투자증권">NH투자증권</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:23
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01668306', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="코어엔텍 기업개황 새창" >
+										코어엔텍
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701000001"  onclick="openReportViewer('20220701000001'); return false;" id="r_20220701000001"
+									title="임원의변동 공시뷰어 새창" >임원의변동
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="코어엔텍">코어엔텍</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:50
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00407814', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="크리스탈지노믹스 기업개황 새창" >
+										크리스탈지노믹스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701900005"  onclick="openReportViewer('20220701900005'); return false;" id="r_20220701900005"
+									title="투자판단관련주요경영사항(임상 2상 시험계획 조기 종료 신청) 공시뷰어 새창" >투자판단관련주요경영사항
+									
+		  							(임상 2상 시험계획 조기 종료 신청)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="크리스탈지노믹스">크리스탈지노믹스</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:35
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00927558', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="유바이오로직스 기업개황 새창" >
+										유바이오로직스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701900002"  onclick="openReportViewer('20220701900002'); return false;" id="r_20220701900002"
+									title="단일판매ㆍ공급계약체결 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>단일판매ㆍ공급계약체결
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="유바이오로직스">유바이오로직스</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:35
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00442455', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="코스나인 기업개황 새창" >
+										코스나인
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220701900001"  onclick="openReportViewer('20220701900001'); return false;" id="r_20220701900001"
+									title="기타경영사항(자율공시)(17회차 전환사채 취득 후 일부 재매각) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>기타경영사항(자율공시)
+									
+		  							(17회차 전환사채 취득 후 일부 재매각)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="코스나인">코스나인</td>
+							<td>2022.07.01</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('01535150', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="SK리츠 기업개황 새창" >
+										SK리츠
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100059"  onclick="openReportViewer('20220630100059'); return false;" id="r_20220630100059"
+									title="효력발생안내( 2022.6.30. 제출 증권신고서(집합투자증권-회사형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.30. 제출 증권신고서(집합투자증권-회사형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100057"  onclick="openReportViewer('20220630100057'); return false;" id="r_20220630100057"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100056"  onclick="openReportViewer('20220630100056'); return false;" id="r_20220630100056"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100055"  onclick="openReportViewer('20220630100055'); return false;" id="r_20220630100055"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100054"  onclick="openReportViewer('20220630100054'); return false;" id="r_20220630100054"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100053"  onclick="openReportViewer('20220630100053'); return false;" id="r_20220630100053"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100052"  onclick="openReportViewer('20220630100052'); return false;" id="r_20220630100052"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100051"  onclick="openReportViewer('20220630100051'); return false;" id="r_20220630100051"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100050"  onclick="openReportViewer('20220630100050'); return false;" id="r_20220630100050"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100049"  onclick="openReportViewer('20220630100049'); return false;" id="r_20220630100049"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100048"  onclick="openReportViewer('20220630100048'); return false;" id="r_20220630100048"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241412', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보악사자산운용 기업개황 새창" >
+										교보악사자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100047"  onclick="openReportViewer('20220630100047'); return false;" id="r_20220630100047"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00251428', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영자산운용 기업개황 새창" >
+										신영자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20220630100046"  onclick="openReportViewer('20220630100046'); return false;" id="r_20220630100046"
+									title="효력발생안내( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2022.6.24. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2022.07.01</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+				</tbody>
+			
+			
+		
+		<input type="hidden" name="totalCnt" id="totalCnt" value="611">
+	</table>
+</div>
+
+	<div class = "psWrap">
+		<div class="pageInfo">[6/7] [총 611건]</div>
+		
+		<div class="pageSkip">
+			<ul>
+				<li><a href="javascript:search(1);">1</a></li><li><a href="javascript:search(2);">2</a></li><li><a href="javascript:search(3);">3</a></li><li><a href="javascript:search(4);">4</a></li><li><a href="javascript:search(5);">5</a></li><li class="on"><a onClick="javascript:void(0);">6</a></li><li><a href="javascript:search(7);">7</a></li>
+
+			</ul>
+		</div>
+	</div>
+
